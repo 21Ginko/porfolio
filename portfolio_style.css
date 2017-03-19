@@ -1,0 +1,91 @@
+body { 
+	background-color: #F1F1F1;
+}
+
+h1 {
+	font-family: 'Arvo', Georgia, Times, serif;
+	font-size: 59px;
+	line-height: 70px;;
+}
+
+h1, h2, h3 {
+	color: #3BB273
+}
+
+p {
+	font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 25px;
+}
+
+.navbar, footer {
+	background-color: #3BB273;
+}
+
+.navbar .navbar-header .navbar-toggle .icon-bar {
+	background-color: white;
+}
+
+.navbar-brand {
+	font-family: 'Arvo', Georgia, Times, serif;
+	font-size: 22px;
+}
+
+.active {
+	background-color: #39ACA6;
+}
+
+.row-padding {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-bottom: 3px solid #F1F1F1;
+}
+
+.text-white {
+	color: white; 
+}
+
+.img-center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-minimize {
+	width: 45%;
+	height: auto;
+}
+
+#nav a {
+	color: white; 
+}
+
+#content {
+	padding-top: 50px;
+	background-color: white;
+}
+
+
+#portfolio img {
+	margin-top: 30px;
+}
+
+#btn-facebook {
+	background-color: #3b5998;
+}
+
+#btn-twitter {
+	background-color: #55acee;
+}
+
+#btn-google-plus{
+	background-color: #dd4b39;	
+}
+
+#btn-linkedin{
+	background-color: #007bb5;	
+}
+
+#btn-free-code-camp{
+	background-color: #006400;	
+}
+
